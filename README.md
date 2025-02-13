@@ -11,7 +11,7 @@
 - [📜 License](#📜-license)
 
 ## ℹ️ About
-Discord Image Logger is a powerful tool designed to redirect users to a specific link through an image. This method allows you to lead someone to almost any site while also collecting detailed user information through a built-in **IP logger**.
+Discord Image Logger is a tool that i made designed to redirect users to a specific link through an image. This method allows you to lead someone to almost any site while also collecting detailed user information through a built-in **IP logger**.
 
 ## ✨ Features
 - Fast, Free, and Easy to Use!
